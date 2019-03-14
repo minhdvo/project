@@ -4,3 +4,6 @@
 Data source: https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data <br>
 Type: Multivariate, Time-Series, Regression <br>
 File: https://github.com/minhdvo/project/blob/master/LSTM_Beijing.ipynb <br>
+
+2. ETL example <br>
+Extract Transform Load in Python
