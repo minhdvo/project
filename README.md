@@ -11,3 +11,7 @@ Extract Transform Load in Python
 3. Bee - Deep Learning with Images <br>
 Type: Deep Learning, Classification <br>
 File: https://github.com/minhdvo/project/tree/master/image_classification
+
+4. Ling-Spam <br>
+Type: Text Classification <br>
+File: https://github.com/minhdvo/project/blob/master/Naive-Bayes/Ling-Spam.ipynb
