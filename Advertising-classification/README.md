@@ -13,3 +13,14 @@ The provided data science has ten columns as follows: <br>
 **8. avg_budget:** average monthly budget the client spends on advertising <br>
 **9. BC:** client's business category <br>
 **10. clicks:** number of clicks the client received as a result of their advertising effort <br>
+
+# Challenge
+- Perform data cleaning and exploration if necessary.
+- Train a model that predicts churn and describe its performance.
+- Justify the metrics for model evaluation.
+- Present results and their insights.
+
+# Deliverables
+- A jupyter notebook containing the entire modeling workflow.
+- A technical report (2 pages) includes the process, steps taken and final findings.
+- A non-technical report (2 pages) summarizes the approach, key findings and recommended next steps for non-data science oriented audiences.
