@@ -19,3 +19,7 @@ File: https://github.com/minhdvo/project/blob/master/Naive-Bayes/Ling-Spam.ipynb
 5. Reducing traffic <br>
 Type: Multivariate linear regression, KMeans clustering, dimensionally reduction through PCA
 File: https://github.com/minhdvo/project/blob/master/Reduce_traffic/notebook-traffic.ipynb
+
+6. ASL Recognition <br>
+Type: Deep Learning, Classification <br>
+File: https://github.com/minhdvo/project/blob/master/ASL%20Recognition/notebook.ipynb
