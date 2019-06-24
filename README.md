@@ -23,3 +23,7 @@ File: https://github.com/minhdvo/project/blob/master/Reduce_traffic/notebook-tra
 6. ASL Recognition <br>
 Type: Deep Learning, Classification <br>
 File: https://github.com/minhdvo/project/blob/master/ASL%20Recognition/notebook.ipynb
+
+7. Classify Song Genres from Audio Data <br>
+Type: Classification, PCA, logistic regression, decision trees, balance dataset <br>
+File: https://github.com/minhdvo/project/blob/master/Song%20Genres%20from%20Audio%20Data/notebook.ipynb
