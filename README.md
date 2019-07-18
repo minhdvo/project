@@ -27,3 +27,7 @@ File: https://github.com/minhdvo/project/blob/master/ASL%20Recognition/notebook.
 7. Classify Song Genres from Audio Data <br>
 Type: Classification, PCA, logistic regression, decision trees, balance dataset <br>
 File: https://github.com/minhdvo/project/blob/master/Song%20Genres%20from%20Audio%20Data/notebook.ipynb
+
+8. NASA bearing - Machine learnign for Anomaly detection <br>
+Type:  PCA, Mahalanobis distance, Autoencoder network (ANN) <br>
+File: https://github.com/minhdvo/project/blob/master/NASA_bearing/anomaly_detection.ipynb
